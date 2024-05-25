@@ -25,7 +25,7 @@ O aplicativo permite a realização de atividades para avaliar aprendizagem alé
 
 🔗 ACESSO AO PROJETO
 —————————————————————
-O projeto pode ser acessado através do link do figma, link do figma
+O projeto pode ser acessado através do link do figma, link do figma: https://www.figma.com/design/ShUa0cK3esUY8kVREXiv7d/Prototipo-pitch---BRADUCA?m=dev&node-id=0-1&t=OgtNR3kLTja4tuCU-1
 
 🔗 DESENVOLVEDORES
 —————————————————————
